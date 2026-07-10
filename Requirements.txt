@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+sqlite3
+matplotlib
+seaborn
+plotly
+openpyxl
+scikit-learn
+sqlalchemy
+faker
